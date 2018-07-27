@@ -46,6 +46,7 @@
     "archiver": "^2.1.1",
     "async": "2.0.1",
     "buffer-crc32": "^0.2.13",
+    "crc": "https://github.com/zcmgyu/node-crc.git",
     "lodash": "4.17.10",
     "mkdirp": "^0.5.1",
     "q": "1.4.1",
